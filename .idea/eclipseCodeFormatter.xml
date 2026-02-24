@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="selectedGlobalProfile">
+      <Settings>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="id" value="1685974254186" />
+        <option name="importOrder" value="jakarta;java;javax;lombok;org;com;" />
+        <option name="name" value="SIB" />
+        <option name="pathToConfigFileJava" value="C:/workspace/SIB_Eclipse_PreferenceExport.epf" />
+        <option name="selectedJavaProfile" value="valid EPF config" />
+      </Settings>
+    </option>
+  </component>
+</project>
